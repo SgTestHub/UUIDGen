@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="LongestSubsequence.ConsoleApp/LongestSubsequence.ConsoleApp.csproj" Id="00e78021-3106-47be-a68e-dedf69391896" />
+  <Project Path="LongestSubsequence.TestApp/LongestSubsequence.TestApp.csproj" Id="538e1270-b611-4802-b0c0-c708f1ae66bc" />
+  <Project Path="Utilities/Utilities.csproj" Id="2fc577f6-6c1a-4e2f-a32c-ff4b76647c09" />
 </Solution>

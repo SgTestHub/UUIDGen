@@ -1,5 +1,8 @@
-﻿using LongestSubsequence.ConsoleApp.Utilities;
+﻿using Utilities;
 
 Console.Write("Enter integers separated by spaces: ");
 var input = Console.ReadLine();
-Console.WriteLine($"Longest increasing subsequence: {input}");
+
+var result = LongestSubsequenceFinder.FindLongestSubsequence(input);
+Console.WriteLine($"Output: {result}");
+
